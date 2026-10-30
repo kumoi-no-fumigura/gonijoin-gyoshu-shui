@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/gonijoin-gyoshu-shui",
  "yomi": "ごにじょういんぎょしゅうしゅうい",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "御集（拾遺）",
+  "era": "鎌倉後期",
+  "author": "後二条院",
+  "desc": "後二条院の歌のうち、御集に漏れたものを勅撰集などから集めた拾遺。嘉元百首の詠や、後宇多院・亀山院らとの贈答を含む。"
+ },
  "editions": [
   {
    "pid": "1088203",
